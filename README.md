@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morris Bundi</h1>
-<h3 align="center">A passionate Machine Learning Engineer at Omdena</h3>
+<h3 align="center">By day a statistics student. At night a Machine Learning Engineer at Omdena</h3>
 <img align="right" alt="Coding" width="400" src="https://media-exp1.licdn.com/dms/image/C5612AQEu4Z5C9Jlx2A/article-cover_image-shrink_600_2000/0/1624707998612?e=1658966400&v=beta&t=neybi_P0Yly5tHwNlrDwBMNPvnb9_XQIBRaGyPo3ElQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morrisbmm&label=Profile%20views&color=0e75b6&style=flat" alt="morrisbmm" /> </p>
